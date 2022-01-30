@@ -1,6 +1,6 @@
 {
-	"ip":"KiraSMPMF.aternos.me",
-	"port": "59504",
+	"ip":"KiraSMPMF.aternos.me:59504",
+	"port": "25565",
 	"name": "Pissfass",
 	"auto-night-skip":"false"
 }
